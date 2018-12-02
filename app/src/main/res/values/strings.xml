@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adventskalender 2017</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_door_pictures">Door</string>
+    <string name="title_activity_door_video">Video</string>
+
+</resources>
